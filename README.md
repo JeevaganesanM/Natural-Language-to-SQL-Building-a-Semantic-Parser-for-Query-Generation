@@ -1,1 +1,0 @@
-# Natural-Language-to-SQL-Building-a-Semantic-Parser-for-Query-Generation
